@@ -9,4 +9,8 @@ Just learning GOLANG !!
 
 
 ```14-04-2024 :: struct , array , slice , appends on slice , loops onver slice , maps , maps vs struct ```
-              3:34:38
+              3:34:38  
+
+
+```15-04-2024 :: anonymous functions , closure , methods , interface , generics  ```
+              5:00:38
