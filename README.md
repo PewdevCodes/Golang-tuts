@@ -14,3 +14,7 @@ Just learning GOLANG !!
 
 ```15-04-2024 :: anonymous functions , closure , methods , interface , generics  ```
               5:00:38
+
+
+```16-04-2024 :: GoRoutines , Channels , Concurrency in GoLang  ```
+              5:45:38
